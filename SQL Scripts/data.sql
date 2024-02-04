@@ -1,0 +1,11 @@
+CREATE DATABASE Phonepe_data;
+use Phonepe_data;
+select * from agg_insurance;
+select * from agg_transaction;
+select * from agg_user;
+select * from map_insurance;
+select * from map_transaction;
+select * from map_user;
+select * from top_insurance;
+select * from top_transaction;
+select * from top_user;
