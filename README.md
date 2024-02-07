@@ -20,7 +20,20 @@
 - This user-friendly platform will leverage powerful visualization techniques to present data geographically, offering a clear and intuitive understanding of transaction patterns.
 - The approach is designed to enhance the overall analysis and interpretation of PhonePe's transactional landscape, contributing to a more informed and visually engaging exploration of the platform's performance over time and across different regions.
 
-##Data Extraction
+**Data Extraction**
 - Automate the retrieval process by scripting the cloning of the PhonePe Pulse GitHub repository.
 - This script will fetch the data and organize it into a convenient format, be it CSV or JSON.
 - This approach ensures efficient and seamless extraction, facilitating further analysis and exploration of the extensive dataset available in the PhonePe Pulse repository.
+
+**Data Transformation**
+- Leverage a scripting language, such as Python, coupled with powerful libraries like Pandas, to execute comprehensive data manipulation and pre-processing tasks.
+- This involves activities such as data cleaning, handling missing values, and structuring the data into a format optimized for subsequent analysis and visualization.
+
+**Database Integration**
+- Utilize the "mysql-connector-python" library in Python to establish a connection with a MySQL database.
+- Employ SQL commands to seamlessly insert the transformed data into the database, ensuring a streamlined and organized repository for further exploration.
+
+**Dashboard Development**
+- Harness the capabilities of Streamlit and Plotly libraries in Python to craft an engaging and interactive dashboard.
+- Capitalize on Plotly's built-in geo mapping functions for visually displaying data on maps, while Streamlit facilitates the creation of a user-friendly interface.
+- Implement multiple dropdown options within the dashboard, allowing users to dynamically select and visualize different metrics, fostering a more intuitive and customizable exploration experience.
