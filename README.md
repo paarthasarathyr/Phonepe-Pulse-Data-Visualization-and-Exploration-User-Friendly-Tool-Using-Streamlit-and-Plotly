@@ -19,3 +19,8 @@
 - By categorizing transactions based on key parameters like Years, Quarters, States, and Transaction Types, our application aims to provide nuanced insights into user behavior and transaction dynamics.
 - This user-friendly platform will leverage powerful visualization techniques to present data geographically, offering a clear and intuitive understanding of transaction patterns.
 - The approach is designed to enhance the overall analysis and interpretation of PhonePe's transactional landscape, contributing to a more informed and visually engaging exploration of the platform's performance over time and across different regions.
+
+##Data Extraction
+- Automate the retrieval process by scripting the cloning of the PhonePe Pulse GitHub repository.
+- This script will fetch the data and organize it into a convenient format, be it CSV or JSON.
+- This approach ensures efficient and seamless extraction, facilitating further analysis and exploration of the extensive dataset available in the PhonePe Pulse repository.
